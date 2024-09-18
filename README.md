@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arnav Bhattacharya</h1>
-<h3 align="center">A passionate frontend developer from Dublin</h3>
+<h3 align="center">A passionate software developer from Dublin</h3>
 <p align='center'>
   <img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/>
 </p>
