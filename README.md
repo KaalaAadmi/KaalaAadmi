@@ -13,9 +13,9 @@
 
 - 👨‍💻 All of my projects are available at [https://portfolio-kaalaaadmi.vercel.app/](https://portfolio-kaalaaadmi.vercel.app/)
 
-- 💬 Ask me about **React, React Native, REST APIs, MERN**
+- 💬 Ask me about **React, React Native, REST APIs, MERN, Golang, Typescript, Python**
 
-- 📫 How to reach me **bhattaar@tcd.ie**
+- 📫 How to reach me **arnav264@gmail.com**
 
 - ⚡ Fun fact **I think I am funny**
 
